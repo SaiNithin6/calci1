@@ -62,6 +62,7 @@ public	JPanel centerPanel = new JPanel(new GridBagLayout());					//center Panel 
 	
 
 	public static void main(String[] args) {
+		System.out.print("SaiNithin");
 		
 			MyCalculator basicGUI = new MyCalculator();
 			basicGUI.setDefaultCloseOperation(EXIT_ON_CLOSE);
